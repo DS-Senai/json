@@ -1,0 +1,27 @@
+{
+    "Json": "Meu Primeiro Json",
+    "Pessoa": [
+      {
+        "Nome": "João",
+        "Idade": 23,
+        "Filhos": true,
+        "CNH": {
+          "Numero": 1234567,
+          "Tipo": [
+            "A", "B"
+          ]
+        },
+        "Familia": 
+          {
+            "Pai": "Joaquim",
+            "Mãe": "Joana"
+          }
+      }
+    ],
+    "Animal": [
+      {
+        "Tipo": "Dog",
+        "Nome": "Brad"
+      }
+    ]
+  }

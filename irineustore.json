@@ -10,6 +10,16 @@
             "Cores": [
                 "Azul","Preto"
             ]
+        },
+        {
+            "Tipo": "Notebook",
+            "Marca": "DELL",
+            "Modelo": "Gamer",
+            "Preço": 3200,
+            "Disponível": true,
+            "Cores": [
+                "Azul","Preto"
+            ]
         }
         
     ],
